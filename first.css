@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 97vh;
+    width: 99%;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 50%;
+    margin: auto;
+    width: 100%;
+}
+.bulb{
+    width: 10%;
+}
