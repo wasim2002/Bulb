@@ -1,2 +1,4 @@
-# Bulb
-This project Bulb
+# Bulb_ON-OFF
+
+This is my first project using DOM Manipulation
+
